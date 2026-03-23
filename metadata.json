@@ -1,0 +1,5 @@
+{
+  "name": "Remix: PolyPredict",
+  "description": "High-Frequency Strategic Quant dashboard for on-chain prediction markets. Calculates edge, Kelly criterion sizing, and generates execution signals.",
+  "requestFramePermissions": []
+}
